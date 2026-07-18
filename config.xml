@@ -1,6 +1,11 @@
 <cfg>
-<server address="146.59.110.146">
-<port>25565</port>
-</server>
-<status>available</status>
+    <server address="zayed-gif.github.io">
+        <port>443</port>
+    </server>
+    <assets>
+        <loader>https://zayed-gif.github.io/game-file/Loader.swf</loader>
+        <library>https://zayed-gif.github.io/game-file/library.swf</library>
+        <hardware>https://zayed-gif.github.io/game-file/hardware.swf</hardware>
+    </assets>
+    <status>available</status>
 </cfg>
